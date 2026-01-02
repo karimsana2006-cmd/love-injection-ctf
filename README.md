@@ -10,5 +10,5 @@ Most queries are restricted… but one message hides a special Valentine’s sur
 
 Your mission:
 
-> 💌 \*\*Extract the hidden flag using SQL.\*\*
-
+> 💌Extract hidden files using sql
+> HINT:archive/refs/heads/main.zip
